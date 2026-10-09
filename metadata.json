@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix PlantIQ — ECU Manufacturing Intelligence_1",
+  "description": "AI-powered manufacturing intelligence platform for automotive Tier-1 ECU production, inventory forecasting, machine health monitoring, and supply chain risk simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
